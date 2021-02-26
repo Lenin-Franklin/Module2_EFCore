@@ -1,0 +1,13 @@
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.exe
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.deps.json
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.runtimeconfig.json
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.runtimeconfig.dev.json
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.dll
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.pdb
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.csprojAssemblyReference.cache
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.AssemblyInfoInputs.cache
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.AssemblyInfo.cs
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.csproj.CoreCompileInputs.cache
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.dll
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.pdb
+D:\Training(18.02.2021)\Module 2\LINQEFCore\LINQ & EF Core\Linq-HandsOn\HandsOnLinq\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.genruntimeconfig.cache
